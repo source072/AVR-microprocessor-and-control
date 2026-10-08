@@ -4,3 +4,4 @@
 
 ### 구성
 
+![로봇 사진](./project/image/robot1.png)
