@@ -1,10 +1,4 @@
 # AVR-microprocessor-and-control
-## hi
-### hihi
-
-
-**진하게**
-
-- 1 나는
-- 2 테스트 중
-- 3 마크다운
+## Intro
+### 처음으로 바닥부터 직접 개발해본 로봇입니다.
+### 
